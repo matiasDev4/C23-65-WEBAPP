@@ -1,6 +1,6 @@
 ## Patitas - Adopción de Mascotas
 en esta ocación tuve la oportunidad de trabajar en equipo, el cual me curce con gente muy amigable y bastante proactiva. Aprendi sobre el trabajo en equipo y lo complicado que es.
-Algo que me dejo con mas ganas de colaborar grupalmente con otros desarrolladores, aplicando conocimiento y pudiendo transimitir lo que aprendi, mis errores y hasta consejos.
+Algo que me dejo con mas ganas de colaborar grupalmente con otros desarrolladores, aplicando el conocimiento que tenia hasta en ese entonces
 
 ## ¿Como funcion?
 Es una aplicacion web para la adopcion de mascotas, mediante un formulario de adopcion el cual es enviado a los administradores para ser chequeados y decidir si la persona es apta o no para la adopcion.
