@@ -7,6 +7,6 @@ Es una aplicacion web para la adopcion de mascotas, mediante un formulario de ad
 Tuvimos en cuenta muchas razones sociales por las cuales una persona puede ser o no apta para la adopcion, algo que nos ayudo a comprender muchas cosas y nos motivo con el desarrollo.
 
 ## ¿Cual fue mi rol?
-Mi rol fue como el backend del equipo, con otros 2 compañeros mas. En donde pude aprender la implementacion de JWT para la autenticacion y seguridad de la aplicacion, puse en practica mi logica de programacion y asi mismo logre junto con mi equipo dejar un codigo limpio y funcional.
+Mi rol fue backend, con otros 2 compañeros mas. En donde pude aprender la implementacion de JWT para la autenticacion y seguridad de la aplicacion, puse en practica mi logica de programacion y asi mismo logre junto con mi equipo dejar un codigo limpio y funcional.
 
 Un proyecto que me demostro mi capacidad para aprender cosas nuevas y adaptarme a distintos entornos, logre dominar lo basico de fastAPI que al dia de hoy sigo utilizando para mis proyectos backend.
